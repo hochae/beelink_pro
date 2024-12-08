@@ -5,6 +5,7 @@
 ## windows 11 pro version upgrade 방법
 1. 아래 key를 이용하여 windows 11로 upgrade 진행 [참고](https://itcider.com/1572/)
    - VK7JG-NPHTM-C97JM-9MPGT-3V66T
+   - 이 때 인터넷을 잠시 끄세요... 그래야 upgrade가 진행됩니다. 아마 key가 기간이 다 된 것 같네요...
 
 2. beelink support site에 로그인하여 windows 11 key를 요청
    - key 요청 메시지를 남기면 suporter가 기기 바닥의 SN 등이 들어있는 부분의 사진을 요청함.
